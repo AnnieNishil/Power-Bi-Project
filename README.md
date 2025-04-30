@@ -70,7 +70,9 @@ Total Sales = SUM(Sales[SalesAmount])
 YoY Growth = 
 DIVIDE([Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])), 
 CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])))
-Sales by Region: Created dynamic measures using CALCULATE and FILTER functions to adjust based on slicers.
+
+#### Sales by Region: 
+Created dynamic measures using CALCULATE and FILTER functions to adjust based on slicers.
 
 
 
