@@ -59,14 +59,13 @@ Created custom columns for Month, Year, and Sales Profit using Power Query Edito
 
 DAX Calculations:
 
+
 Total Sales:
 
-
-
 Total Sales = SUM(Sales[SalesAmount])
+
+
 YoY Growth:
-
-
 
 YoY Growth = 
 DIVIDE([Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])), 
