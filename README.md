@@ -12,37 +12,37 @@
 ## Key Features & Visuals:
 
 
-#### Total Sales Overview
+#### * Total Sales Overview
 
-#### A KPI card showing Total Sales for the selected period.
+#### * A KPI card showing Total Sales for the selected period.
 
-#### Comparison: This year's sales vs. last year's sales (YoY Growth).
+#### * Comparison: This year's sales vs. last year's sales (YoY Growth).
 
-#### Sales by Region
+#### * Sales by Region
 
-#### A map or bar chart displaying total sales by region.
+#### * A map or bar chart displaying total sales by region.
 
-#### Filterable with a slicer for Region.
+#### * Filterable with a slicer for Region.
 
-#### Sales by Category
+#### * Sales by Category
 
-#### A pie chart or stacked bar chart showing sales distribution by product category.
+#### * A pie chart or stacked bar chart showing sales distribution by product category.
 
-#### Use slicers to filter by category and sub-category.
+#### *  Use slicers to filter by category and sub-category.
 
-#### Sales Trend Analysis
+####  *Sales Trend Analysis
 
-#### A line chart showing monthly sales trends, with drill-down capability (Year > Quarter > Month).
+#### * A line chart showing monthly sales trends, with drill-down capability (Year > Quarter > Month).
 
-#### Top Products
+#### * Top Products
 
-#### A table or bar chart showing the top 10 best-selling products based on total sales.
+#### * A table or bar chart showing the top 10 best-selling products based on total sales.
 
-#### Customer Segmentation
+#### * Customer Segmentation
 
-#### A scatter plot that segments customers based on Total Sales and Number of Orders.
+####  *A scatter plot that segments customers based on Total Sales and Number of Orders.
 
-#### Filters to look at segments by Region and Category.
+#### *  Filters to look at segments by Region and Category.
 
 
 
@@ -85,15 +85,15 @@ Created dynamic measures using CALCULATE and FILTER functions to adjust based on
 ## Power BI Visuals:
 
 
-#### KPI Cards for key metrics like Total Sales, Total Profit, and YoY Growth.
+#### * KPI Cards for key metrics like Total Sales, Total Profit, and YoY Growth.
 
-#### Bar and Column Charts to display regional and product-based sales comparisons.
+#### * Bar and Column Charts to display regional and product-based sales comparisons.
 
-#### Map Visual to represent sales geographically.
+#### * Map Visual to represent sales geographically.
 
-#### Line Chart to show monthly sales performance.
+#### * Line Chart to show monthly sales performance.
 
-#### Slicers to filter by region, product, category, or time period.
+#### * Slicers to filter by region, product, category, or time period.
 
 
 
